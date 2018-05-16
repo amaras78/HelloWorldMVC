@@ -10,9 +10,9 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Hello World new branch</h2>
+		<h2>Hello World test deployment</h2>
 		<h3>
-			<a href="hello?name=Aleksa">Click Here new branch</a>
+			<a href="hello?name=Simple">Click Here</a>
 		</h3>
 	</center>
 </body>
