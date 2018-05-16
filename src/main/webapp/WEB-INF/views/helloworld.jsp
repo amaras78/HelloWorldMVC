@@ -7,7 +7,7 @@
 </head>
 <body>
 	<center>
-		<h2>Hello World test picture</h2>
+		<h2>Hello World test picture only</h2>
 		<h2>
 			${message} ${name}
 		</h2>
